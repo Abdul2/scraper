@@ -41,17 +41,17 @@ The logic of the code is straightforward     (the way it should be).
 
 - use regexp and strings libraries to format data into own format
 
- - Marshal to Json
+- Marshal to Json
 
- ## License
+## License
 
- Free to use.
+Free to use.
 
- ## known issues
+## known issues
 
- none. but go  ahead and break it but please let me know.
+none. but go  ahead and break it but please let me know.
 
- ## to do - time permiting
+## to do - time permiting
 
 I wrote the code over a weekend and ran out of time to make it 'perfect'.
 
