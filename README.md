@@ -5,16 +5,15 @@ Before you collect data from any where make sure you are not breaking legal or e
 
 if you are intending to gain from your data collection exploits i suppose  you need to check with the owners and comply with relevant ownerships rights.
 
-The code in this module  is part of a community project to make available local data.The project is lead by me and the idea is no to only free data through simple http GET services
+The code in this module  is part of a community project to make available local data.The project is lead by me and the idea is to free local data through simple http GET services
 
-but to test out new build and deployment ideas. The project is supported by Croydon Tech City and beside up skilling the local tech force, it aims to use practical implementations as the basis
+The project will also test out new build and deployment ideas
 
-for courses, lectures and workshops.
 
 ## the data
 
 
-freely available local data is hard to come by unless you have interest in football.So we decided to collect game stats of the best club in the world; the Eagles.
+freely local data is hard to accesss in a modern format {jason and REST } so we decided do to freethe largest set of local data that we can find; game stats of the best footbal club in the world; the Eagles.
 
 
 
