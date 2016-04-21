@@ -55,7 +55,7 @@ The logic of the code is straightforward     (the way it should be).
 
  ## to do - time permiting
 
-I wrote the code over a weekend and there are and ran out of time to make it 'perfect'.
+I wrote the code over a weekend and ran out of time to make it 'perfect'.
 
 will come back to it and do the following [feel free to fork it and improve pls]
 
