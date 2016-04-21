@@ -1,5 +1,3 @@
-u# Architecture
-
 
 ## intro
 
@@ -62,4 +60,5 @@ will come back to it and do the following [feel free to fork it and improve pls]
  - write the json output into a file
  - simplfy code and remove deep nested logic
  - improve error handling
+ - improve documentation
 
